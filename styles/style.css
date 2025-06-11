@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+}
+
+.left-side{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35%;
+    background-image: url("./img/halie-west.jpg") no-repeat center center;
+}
